@@ -17,10 +17,12 @@ The Loan Prediction System is a Python-based application designed to predict whe
    ```bash
    git clone https://github.com/ayamahmoud11/loanprediction.git
    cd loanprediction
-2. Install Dependencies:
-   pip install -r requirements.txt
 
-3. Run the Application:
+2. **Install Dependencies::**
+   ```bash
+    pip install -r requirements.txt
+3. **Run the Application:**
+   ```bash
    python loan_prediction.py
 
 Project Structure
