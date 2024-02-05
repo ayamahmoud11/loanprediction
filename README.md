@@ -17,3 +17,28 @@ The Loan Prediction System is a Python-based application designed to predict whe
    ```bash
    git clone https://github.com/ayamahmoud11/loanprediction.git
    cd loanprediction
+2. Install Dependencies:
+   pip install -r requirements.txt
+
+3. Run the Application:
+   python loan_prediction.py
+
+Project Structure
+data: Contains the dataset used for training and testing.
+loan_prediction.py: Main Python script for running the loan prediction system.
+requirements.txt: List of Python dependencies.
+Contributing
+Contributions are welcome! If you have suggestions, bug reports, or enhancements, please open an issue or create a pull request.
+
+Dependencies
+Python 3.x
+Pandas
+Scikit-learn
+Matplotlib
+Seaborn
+License
+This Loan Prediction System is open-source software licensed under the MIT License.
+
+Feel free to customize this README based on any additional details or specific aspects of your project.
+
+
